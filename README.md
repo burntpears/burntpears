@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🍐 Brent Pierce – @burntpears
+
+> Code cookin’ with a hint of fruit and fire. Served crisp.
+
+Currently building:
+- 🔧 Internal testing tools @thornpike
+- 🧪 Workflows & GitHub Actions
+- 🧠 Exploring DX, observability, and automation
+
+📫 Find me at: 🔥 @burntpears | 💼 [LinkedIn](https://www.linkedin.com/in/brentpierce/)]
