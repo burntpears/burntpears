@@ -24,4 +24,4 @@ Currently building:
 - 🧪 Workflows & GitHub Actions
 - 🧠 Exploring DX, observability, and automation
 
-📫 Find me at: 🔥 @burntpears | 💼 [LinkedIn](https://www.linkedin.com/in/brentpierce/)]
+📫 Find me at: 🔥 @burntpears | 💼 [LinkedIn](https://www.linkedin.com/in/brentpierce/)
